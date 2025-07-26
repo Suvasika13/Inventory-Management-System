@@ -24,38 +24,6 @@ Welcome to the Inventory Management System, a web application built using PHP to
 - **Database**: MySQL
 - **Frameworks**: Bootstrap
 
-## Installation
-
-1. **Clone the repository**
-    ```sh
-    git clone https://github.com/Harsh21Patel/Inventory-Management-System-PHP.git
-    ```
-2. **Navigate to the project directory**
-    ```sh
-    cd Inventory-Management-System-PHP
-    ```
-3. **Set up the database**
-    - Import the `database.sql` file into your MySQL database.
-    - Update the database configuration in `config.php`.
-
-4. **Start the server**
-    - Use a local server like XAMPP or WAMP and place the project folder in the `htdocs` directory.
-    - Start Apache and MySQL from the control panel.
-
-5. **Access the application**
-    - Open your web browser and navigate to `http://localhost/Inventory-Management-System-PHP`.
-
-## Usage
-
-1. **Login**
-    - Access the login page at `http://localhost/Inventory-Management-System-PHP/login.php`.
-    - Use your credentials to log in. If you don’t have an account, register first.
-
-2. **Manage Products**
-    - Navigate to the product management section to add, update, or delete products.
-
-3. **View Inventory**
-    - Check the inventory reports to monitor stock levels and generate insights.
 
 ## Screenshot
 
@@ -74,7 +42,5 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
